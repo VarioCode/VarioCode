@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @VarioCode
 - 👀 I’m interested in Cloud, Networking & Programming
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java & C#
+- 💻 I'm currently working on OpenPOS
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 How to reach me contact@jarnocrans.com
 

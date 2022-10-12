@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Vario, a Software Engineering Student👨‍🎓 & Junior Software developer 👨‍💻</div>  
+### <div align="center">I'm Jarno, a Software Engineering Student👨‍🎓 & Junior Software developer 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [RaceSim](https://github.com/VarioCode/RaceSim)  

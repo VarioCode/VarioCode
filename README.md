@@ -6,7 +6,7 @@
 ### <div align="center">I'm Jarno, a Software Engineering Student👨‍🎓 & Junior Software developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [RaceSim](https://github.com/VarioCode/RaceSim)  
+- 🔭 I’m currently working on [OpenPOS](https://github.com/ICTOOSDDd4/OpenPOS)  
   
 
 - 👀 I’m interested in Cloud, Networking & Programming  

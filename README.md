@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=variocode" alt="variocode" /></a> </p>
 
-- 🔭 I’m currently working on [Web dev Project](https://github.com/VarioCode/webdev-frontend)
+- 🔭 I’m currently working on [Congregation Toolbox](https://github.com/VarioCode/congregation-toolbox)
 
 - 🌱 I’m currently learning **Angular and Spring**
 
